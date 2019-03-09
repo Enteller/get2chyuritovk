@@ -11,6 +11,16 @@ Python-скрипт берет url юрийных картинок с треда
 ##### Создание группы
 `Группы`->`Создать сообщество`-> Следовать инструкциям
 ##### Настроить отправку сообщений
-`Управление`->`Работа с API`-> Получите токен
-`Сообщения`->`Сообщения сообщества`-> Сообщения сообщества:Включены
+* `Управление`->`Работа с API`-> Получите токен
+* `Сообщения`->`Сообщения сообщества`-> Сообщения сообщества:Включены
 ![screenshot of sample](https://github.com/Enteller/get2chyuritovk/blob/master/Screenshot_20190309_135624.png?raw=true)
+##### Настроить скрипт
+Вставить токен группы, свой id, сохранить.
+##### Запустить 
+![screenshot of sample](https://github.com/Enteller/get2chyuritovk/blob/master/Screenshot_20190309_140454.png?raw=true)
+
+
+
+##### Справка
+* https://vk.com/dev/messages VK API
+* https://2ch.hk/api/res/1.html 2ch API
