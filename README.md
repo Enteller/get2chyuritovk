@@ -1,5 +1,7 @@
 # get2chyuritovk
 Python-скрипт берет url юрийных картинок с треда 2ch.hk и отправляет Вам сообщением VK
+
+![screenshot of sample](https://github.com/Enteller/get2chyuritovk/blob/master/Screenshot_20190309_142128.png)
 ![screenshot of sample](https://github.com/Enteller/get2chyuritovk/blob/master/Screenshot_20190309_135903.png?raw=true)
 
 ### Как застравить работать
